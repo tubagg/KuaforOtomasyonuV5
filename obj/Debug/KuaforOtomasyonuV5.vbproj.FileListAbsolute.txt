@@ -1,0 +1,13 @@
+C:\Users\HP-PC\source\repos\KuaforOtomasyonuV5\bin\Debug\KuaforOtomasyonuV5.exe.config
+C:\Users\HP-PC\source\repos\KuaforOtomasyonuV5\bin\Debug\KuaforOtomasyonuV5.exe
+C:\Users\HP-PC\source\repos\KuaforOtomasyonuV5\bin\Debug\KuaforOtomasyonuV5.pdb
+C:\Users\HP-PC\source\repos\KuaforOtomasyonuV5\bin\Debug\KuaforOtomasyonuV5.xml
+C:\Users\HP-PC\source\repos\KuaforOtomasyonuV5\obj\Debug\KuaforOtomasyonuV5.vbproj.AssemblyReference.cache
+C:\Users\HP-PC\source\repos\KuaforOtomasyonuV5\obj\Debug\KuaforOtomasyonuV5.FrmLogin.resources
+C:\Users\HP-PC\source\repos\KuaforOtomasyonuV5\obj\Debug\KuaforOtomasyonuV5.FrmMain.resources
+C:\Users\HP-PC\source\repos\KuaforOtomasyonuV5\obj\Debug\KuaforOtomasyonuV5.Resources.resources
+C:\Users\HP-PC\source\repos\KuaforOtomasyonuV5\obj\Debug\KuaforOtomasyonuV5.vbproj.GenerateResource.cache
+C:\Users\HP-PC\source\repos\KuaforOtomasyonuV5\obj\Debug\KuaforOtomasyonuV5.vbproj.CoreCompileInputs.cache
+C:\Users\HP-PC\source\repos\KuaforOtomasyonuV5\obj\Debug\KuaforOtomasyonuV5.exe
+C:\Users\HP-PC\source\repos\KuaforOtomasyonuV5\obj\Debug\KuaforOtomasyonuV5.xml
+C:\Users\HP-PC\source\repos\KuaforOtomasyonuV5\obj\Debug\KuaforOtomasyonuV5.pdb
